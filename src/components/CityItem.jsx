@@ -1,3 +1,4 @@
+import { useCityFetch } from "../../context/CitiesProvider";
 import styles from "./CityItem.module.css";
 import { Link } from "react-router-dom";
 const formatDate = (date) =>
@@ -9,9 +10,9 @@ const formatDate = (date) =>
 
 function CityItem({ city }) {
   const { cityName, emoji, date, id, position } = city;
-  console.log(position);
+  const { getCurrentCity, recent } = useCityFetch();
   return (
-    <li>
+    <li onClick={() => getCurrentCity(id)}>
       <Link
         className={styles.cityItem}
         to={`${id}?lat=${position.lat}&lng=${position.lng}`}
