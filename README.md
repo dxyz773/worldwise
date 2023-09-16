@@ -1,8 +1,10 @@
-# World Wise
+# World Wise 🌎
 
 - Work in progress 👩🏾‍💻
 
 #### Made while taking Jonas Schmedtmann's - Ultimate React Course
+
+- Utilizing <a href="https://react-leaflet.js.org/">React Leaflet</a> for map
 
 ## A User can:
 
