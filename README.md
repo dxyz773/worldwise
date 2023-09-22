@@ -1,4 +1,4 @@
-# World Wise 🌎
+# WorldWise 🌎
 
 - Work in progress 👩🏾‍💻
 
