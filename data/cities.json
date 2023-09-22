@@ -24,7 +24,6 @@
       },
       "id": 17806751
     },
-
     {
       "cityName": "Berlin",
       "country": "Germany",
@@ -36,6 +35,18 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Bridgeport",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-09-21T23:44:53.784Z",
+      "notes": "BFF Film Festival was awesome! ",
+      "position": {
+        "lat": 41.17245194931263,
+        "lng": -73.17718505859376
+      },
+      "id": 98443198
     }
   ]
 }
