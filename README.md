@@ -13,9 +13,10 @@
 
 1. Custom Context Provider with useReducer
 2. Custom Hooks
-3. React Router 6
-4. useParams
-5. useSearchParams
-6. useNavigate
-7. < Navigate />
-8. CSS Modules
+3. useCallback
+4. React Router 6
+5. useParams
+6. useSearchParams
+7. useNavigate
+8. < Navigate />
+9. CSS Modules
