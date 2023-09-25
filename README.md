@@ -44,5 +44,5 @@
 7. Start React App in second terminal
 
 ```
-  npm start
+  npm run dev
 ```
